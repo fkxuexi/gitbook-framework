@@ -15,5 +15,5 @@
  事务一旦被提交,数据库就要保存这个改变
  
 #### 1.2 数据库的隔离级别
--READ UNCOMMITED 读未提交:
+- READ UNCOMMITED 读未提交:
  
