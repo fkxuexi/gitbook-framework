@@ -47,6 +47,6 @@ spring默认的事务传播机制，如果当前方法已经创建事务，那�
 
 -PROPAGATION_REQUIRED_NEW
 
-这个是无论外层ui
+
 
 
