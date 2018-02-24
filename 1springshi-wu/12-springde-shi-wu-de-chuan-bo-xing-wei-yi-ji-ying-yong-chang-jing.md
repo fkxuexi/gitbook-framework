@@ -4,6 +4,7 @@
 > 事务嵌套的出现则是由于总有一些表是公用的，所以在service层中出现相互调用的问题，于是事务嵌套则出现了，解决方案：spring的事务传播机制
 
 #### 1.1 spring事务传播机制：
+术语约定：
 ```java
 ServiceA.methodA(){
     ServiceB.methodB()
