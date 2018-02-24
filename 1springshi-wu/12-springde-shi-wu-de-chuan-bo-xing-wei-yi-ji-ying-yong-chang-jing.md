@@ -15,4 +15,8 @@ spring默认的事务传播机制，如果当前方法已经创建事务，那�
 
 ##### 1.1.3 PROPAGATION_MANDATORY
 
+如果当前存在事务则使用当前事务否则则抛出异常
 
+##### 1.1.4 PROPAGATION_REQUIRED_NEW
+
+新建事务，如果当前存在事务则挂起当前事务
