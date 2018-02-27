@@ -6,7 +6,7 @@
 
 - SqlSession
 
-mybatis顶层的API，表示和数据库交互会话，完成CURD功能
+    mybatis顶层的API，表示和数据库交互会话，完成CURD功能
 
 - Executor
 
