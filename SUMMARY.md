@@ -1,7 +1,5 @@
 # Summary
 
-## Methods
-
 * [Introduction](README.md)
 * [1.spring](spring.md)
   * [1.1.前言目标](1qian-yan-mu-biao.md)
