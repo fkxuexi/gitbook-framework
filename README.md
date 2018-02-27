@@ -8,6 +8,8 @@
 
 - spring 部分源码解读
 
+- spring 高级的使用点：多数据源
+
 ### mybatis的框架笔记
 
 - mybatis的整体架构图
