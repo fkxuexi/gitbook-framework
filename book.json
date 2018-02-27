@@ -4,7 +4,7 @@
             "Home" : ""
         }
     },
-    "plugins": [ "theme-api" , "splitter","toggle-chapters","sectionx"],
+    "plugins": [ "theme-api" , "splitter","toggle-chapters","sectionx","sitemap"],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
@@ -23,6 +23,9 @@
             "copyright":"Copyright &copy zhangjikai.com 2015",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "sitemap": {
+            "hostname": "http://mybook.com/"
         }
     }
 }
