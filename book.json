@@ -4,7 +4,7 @@
             "Home" : "http://zhangjikai.com"
         }
     },
-    "plugins": [ "theme-api" ],
+    "plugins": [ "theme-api" , "splitter"],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
