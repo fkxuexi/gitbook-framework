@@ -1,2 +1,2 @@
-### 1、mybatis的框架图
+### 1、mybatis的整体设计图
 ![](/assets/mybatis-framework.png)
