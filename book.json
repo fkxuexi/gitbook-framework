@@ -4,7 +4,7 @@
             "Home" : ""
         }
     },
-    "plugins": [ "theme-api" , "splitter","tbfed-pagefooter","toggle-chapters","sectionx"],
+    "plugins": [ "theme-api" , "splitter","toggle-chapters","sectionx"],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
